@@ -12,7 +12,7 @@ MITT
 ---
 
 ## Purpose
-This SOP outlines the procedure for preparing and configuring Windows Server 2025, including installation, basic setup, and networking.
+This SOP is the procedure for creating Windows Server 2025, Which inckudes installation, basic setup, and networking.
 
 ---
 
